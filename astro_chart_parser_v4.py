@@ -167,7 +167,7 @@ if pdf_file is not None:
     title = extract_title(full_text)
 
     # --- Display ---
-    st.subheader(f"{title} – Tropical (Placidus System)")
+    st.subheader(f"{title}")
 
     st.markdown("### Placements")
     for name, sign, house, deg in placements_main:
