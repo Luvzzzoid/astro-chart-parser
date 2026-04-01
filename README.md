@@ -16,5 +16,5 @@ A Streamlit web app that converts **Astro.com chart PDFs** into a clean list of 
 4. Upload to ChatGPT or AI of choice for analysis. 
 
 ## Deployment
-This project is deployed on [Streamlit Cloud](https://streamlit.io/cloud).
+This project is deployed on [Streamlit](https://astro-chart-parser.streamlit.app/).
 
